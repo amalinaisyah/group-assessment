@@ -1,0 +1,85 @@
+body
+ 	{
+ 		background-color: lightgrey;
+ 	}
+
+ a
+ 	{
+ 		text-decoration: none;
+	font-family: 'Abril Fatface', cursive;
+ 	}
+
+h2
+	{
+		background-color: black;
+		color: black;
+		padding:25px; 
+		text-align: center;
+		text-decoration: none;
+	}
+
+p{
+	font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+		font-family: 'Roboto Mono', monospace;
+}
+
+
+h3{
+	font-family: 'Abril Fatface', cursive;
+	color: azure;
+	font-size: 64px;
+	}
+
+h4{
+		font-family: 'Abril Fatface', cursive;
+		color: black;
+		font-size: 45px;
+}
+
+<style>
+	body{
+		margin:0;
+	}
+
+	.topnav{
+		overflow:hidden;
+		background-color: black;
+	}
+
+	.topnav a{
+		float:center;
+		color: white;
+		text-align: center;
+		padding: 30px;
+		text-decoration: none;
+		font-size: 25px;
+	}
+			.topnav a:link
+			{
+			color: violet;
+			text-decoration: none;
+			}	
+
+			.topnav a:visited
+			{
+			color: violet;
+			text-decoration: none;
+			
+			}
+
+			.topnav a:hover
+			{
+			color: turquoise;
+			text-decoration: none;
+			}
+
+			.topnav a:active
+			{
+			color: white;
+			text-decoration: none;
+			}
+
+	</style>
